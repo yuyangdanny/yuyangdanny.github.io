@@ -83,8 +83,8 @@ sections:
           date_start: '2021-02-01'
           date_end: '2021-06-25'
           description: |
-          • Collaborated with the Brazilian AI team on the development of the AI product Pixsee, involving tasks related to object detection and emotion classification.
-          • Worked on Works With Alexa Program for ensuring AI product get the certification.
+            • Collaborated with the Brazilian AI team on the development of the AI product Pixsee, involving tasks related to object detection and emotion classification.
+            • Worked on Works With Alexa Program for ensuring AI product get the certification.
     design:
       columns: '2'
   - block: accomplishments
