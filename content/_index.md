@@ -82,8 +82,7 @@ sections:
           location: Taipei, Taiwan
           date_start: Feb 2021
           date_end: Jun 2021
-          description: • Collaborated with the Brazilian AI team on the development of the AI product Pixsee, involving tasks related to object detection and emotion classification. 
-          • Worked on Works With Alexa Program for ensuring AI product get the certification.
+          description: • Collaborated with the Brazilian AI team on the development of the AI product Pixsee, involving tasks related to object detection and emotion classification. • Worked on Works With Alexa Program for ensuring AI product get the certification.
     design:
       columns: '2'
   - block: accomplishments
