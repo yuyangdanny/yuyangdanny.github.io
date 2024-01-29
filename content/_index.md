@@ -78,7 +78,7 @@ sections:
         - title: AI Algorithm Engineer Intern, [COMPAL Inc.](https://www.compal.com/)
           company: Python/TensorFlow/PyTorch
           company_url: ''
-          company_logo: ![](../images/compal.png)
+          company_logo: ![](https://github.com/yuyangdanny/yuyangdanny.github.io/blob/main/images/compal.png)
           location: Taipei, Taiwan
           date_start: '2021-02-01'
           date_end: '2021-06-25'
