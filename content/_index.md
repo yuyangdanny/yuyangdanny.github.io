@@ -165,7 +165,7 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: uyangzhuang0214@gmail.com
+      email: yuyangzhuang0214@gmail.com
       phone: (+886)910-898935
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       contact_links:
