@@ -75,14 +75,15 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: AI Algorithm Engineer Intern, COMPAL Inc
+          company: Python/TensorFlow/PyTorch
+          company_url: 'https://www.compal.com/'
+          company_logo: ![](../images/compal.png)
+          location: Taipei, Taiwan
+          date_start: Feb 2021
+          date_end: Jun 2021
+          description: • Collaborated with the Brazilian AI team on the development of the AI product Pixsee, involving tasks related to object detection and emotion classification. 
+          • Worked on Works With Alexa Program for ensuring AI product get the certification.
     design:
       columns: '2'
   - block: accomplishments
