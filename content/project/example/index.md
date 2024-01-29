@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: kaggle
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://www.kaggle.com/competitions/dm2023-isa5810-lab2-homework/overview
   - icon: github
     icon_pack: fab
     name: Repository
