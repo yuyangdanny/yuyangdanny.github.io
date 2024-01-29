@@ -175,8 +175,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Computer Vision
+          tag: Computer Vision
+        - name: Natural Language Processing
+          tag: Natural Language Processing
         - name: Other
           tag: Demo
     design:
