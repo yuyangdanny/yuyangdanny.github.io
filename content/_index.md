@@ -77,11 +77,11 @@ sections:
               * Deploying
         - title: AI Algorithm Engineer Intern, COMPAL Inc
           company: Python/TensorFlow/PyTorch
-          company_url: 'https://www.compal.com/'
+          company_url: https://www.compal.com/
           company_logo: org-gc
           location: Taipei, Taiwan
-          date_start: Feb 2021
-          date_end: Jun 2021
+          date_start: '2021-02-01'
+          date_end: '2021-06-25'
           description: • Collaborated with the Brazilian AI team on the development of the AI product Pixsee, involving tasks related to object detection and emotion classification. • Worked on Works With Alexa Program for ensuring AI product get the certification.
     design:
       columns: '2'
