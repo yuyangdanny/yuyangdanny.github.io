@@ -85,7 +85,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Collaborated with the Brazilian AI team on the development of the AI product Pixsee, involving tasks related to object detection and emotion classification.
+              * Collaborated with the Brazilian AI team on the development of the AI product [Pixsee](https://www.pixseecare.com/tw), involving tasks related to object detection and emotion classification.
               * Worked on Works With Alexa Program for ensuring AI product get the certification.
     design:
       columns: '2'
