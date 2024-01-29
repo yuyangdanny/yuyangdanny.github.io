@@ -77,7 +77,7 @@ sections:
               * Deploying
         - title: AI Algorithm Engineer Intern, [COMPAL Inc.](https://www.compal.com/)
           company: Python/TensorFlow/PyTorch
-          company_url: 
+          company_url: ''
           company_logo: org-gc
           location: Taipei, Taiwan
           date_start: '2021-02-01'
