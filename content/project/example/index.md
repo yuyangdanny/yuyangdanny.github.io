@@ -1,5 +1,5 @@
 ---
-title: Tweets emotion classification in Kaggle competition (ranked 6/99)
+title: Tweets emotion classification in Kaggle competition (ranked top 6%)
 summary: Ranked 6th out of 99 participants in the Kaggle Private Leaderboard.
 tags:
   - Natural Language Processing
@@ -17,7 +17,7 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-  - icon: GitHub
+  - icon: github
     icon_pack: fab
     name: Repository
     url: https://github.com/yuyangdanny/DM2023-Lab2-Master
