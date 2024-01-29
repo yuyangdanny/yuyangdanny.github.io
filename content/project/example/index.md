@@ -15,7 +15,7 @@ image:
 links:
   - icon: kaggle
     icon_pack: fab
-    name: Follow
+    name: Competition
     url: https://www.kaggle.com/competitions/dm2023-isa5810-lab2-homework/overview
   - icon: github
     icon_pack: fab
