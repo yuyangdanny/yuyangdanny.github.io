@@ -1,6 +1,8 @@
 ---
 title: Tweets emotion classification in Kaggle competition (ranked top 6%)
-summary: Ranked 6th out of 99 participants in the Kaggle Private Leaderboard.
+summary: |
+  *Python*/*PyTorch*/*Hugging Face*
+  Ranked 6th out of 99 participants in the Kaggle Private Leaderboard.
 tags:
   - Natural Language Processing
 date: '2023-11-05T00:00:00Z'
