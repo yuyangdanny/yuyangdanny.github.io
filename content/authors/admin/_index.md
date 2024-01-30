@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master of Electrical Engineering at National Tsing Hua University
+role: Master of Electrical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,7 +28,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-Related Courses:
+Interests:
   - Data Mining
   - Computer Vision
   - Deep Learning
