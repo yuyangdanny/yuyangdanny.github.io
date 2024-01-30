@@ -9,7 +9,7 @@ tags:
 date: "2022-12-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://external-project.org
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
