@@ -23,7 +23,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: ''
-publication_short: [National Tsing Hua University](https://www.nthu.edu.tw/), advised by [Min Sun](https://aliensunmin.github.io/)
+publication_short: National Tsing Hua University, advised by [Min Sun](https://aliensunmin.github.io/)
 
 abstract: |
   * Quantifiable Achievements: Managed data processing on an unprecedented scale, handling surveillance footage that amounts to millions of images per day. This highlights the massive scale of data processing challenges faced and tackled.
