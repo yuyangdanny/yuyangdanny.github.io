@@ -40,10 +40,10 @@ education:
   courses:
     - course: Master of Electrical Engineering
       institution: National Tsing Hua University
-      year: 2009
+      year: ''
     - course: Bachelor of Electrical Engineering
       institution: National Taipei University of Technology
-      year: 2008
+      year: ''
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
