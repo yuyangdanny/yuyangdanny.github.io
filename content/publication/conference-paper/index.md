@@ -39,7 +39,7 @@ summary: |
   * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by 33% while increasing accuracy by 20%.
   * Grafana and MySQL integration for effective monitoring and data visualization.
 
-tags: []
+tags: ['a', 'b']
 
 # Display this page in the Featured widget?
 featured: true
