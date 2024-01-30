@@ -1,5 +1,5 @@
 ---
-title: Human activity efficiency analysis AI system for Mirle
+title: Human activity efficiency analysis AI system
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
