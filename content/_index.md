@@ -87,10 +87,11 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    id: Technology Transfer
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Technology Transfer'
-      subtitle: <em><small>LargeScaleProjects/Git/Python/PyTorch/Object-Detection/Active-Learning/OpenCV/MySQL/Grafana</small></em>
+      subtitle: <em><small>LargeScaleProjects/Git/Python/PyTorch/ObjectDetection/ActiveLearning/OpenCV/MySQL/Grafana</small></em>
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -99,7 +100,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: '2023-06-30'
           date_start: '2022-05-01'
           description: |
@@ -107,7 +108,7 @@ sections:
               * Grafana and MySQL integration for effective monitoring and data visualization.
           icon: NTHU
           organization: National Tsing Hua University
-          organization_url: https://www.coursera.org
+          organization_url: https://www.nthu.edu.tw/
           title: Human activity efficiency analysis AI system for [Mirle](https://www.mirle.com.tw/)
           url: ''
     design:
