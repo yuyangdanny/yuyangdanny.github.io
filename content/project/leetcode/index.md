@@ -14,6 +14,12 @@ external_link: ''
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
+
+links:
+  - icon: chrome
+    icon_pack: fab
+    name: Web
+    url: https://leetcode.com/zeeztw/
 ---
 Abstract
   Slove the problems such as two pointer, binary search, BFS, DFS, dynamic programming, backtracking, greedy, monotonic stack, KMP, and so on.
