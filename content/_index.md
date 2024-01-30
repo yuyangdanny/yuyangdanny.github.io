@@ -84,6 +84,8 @@ sections:
           description: |
               * Collaborated with the Brazilian AI team on the development of the AI product [Pixsee](https://www.pixseecare.com/tw/), involving tasks related to object detection and emotion classification.
               * Worked on Works With Alexa Program for ensuring AI product get the certification.
+    design:
+      columns: '2'
 - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -108,8 +110,6 @@ sections:
           organization_url: https://www.coursera.org
           title: Human activity efficiency analysis AI system for [Mirle](https://www.mirle.com.tw/)
           url: ''
-    design:
-      columns: '2'
     design:
       columns: '2'
   - block: portfolio
