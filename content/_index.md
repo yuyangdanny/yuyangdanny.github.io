@@ -64,31 +64,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Human activity efficiency analysis AI system for [Mirle](https://www.mirle.com.tw/)
+          company: ''
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          company_logo: Mirle
+          location: Taiwan
+          date_start: '2022-05-01'
+          date_end: '2023-06-30'
+          description: |
+              * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by 33% while increasing accuracy by 20%.
+              * Grafana and MySQL integration for effective monitoring and data visualization.
         - title: AI Algorithm Engineer Intern, [COMPAL Inc.](https://www.compal.com/)
-          company: <em><small style="background-color: plum; color: darkmagenta; padding: 5px;">Python/PyTorch/Hugging-Face</small></em>
+          company: <em><small>Python/PyTorch/TensorFlow</small></em>
           company_url: ''
           company_logo: compal
           location: Taipei, Taiwan
           date_start: '2021-02-01'
           date_end: '2021-06-25'
           description: |
-              Responsibilities include:
-
               * Collaborated with the Brazilian AI team on the development of the AI product [Pixsee](https://www.pixseecare.com/tw/), involving tasks related to object detection and emotion classification.
               * Worked on Works With Alexa Program for ensuring AI product get the certification.
+
     design:
       columns: '2'
   - block: portfolio
