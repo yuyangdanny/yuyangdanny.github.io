@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master of Electrical Engineering
+role: Master's student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -42,7 +42,7 @@ education:
       institution: National Tsing Hua University
       year: 2009
     - course: Bachelor of Electrical Engineering
-      institution: National Tsing Hua University
+      institution: National Taipei University of Technology
       year: 2008
 
 # Skills
