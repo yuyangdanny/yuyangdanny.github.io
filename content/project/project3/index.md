@@ -2,7 +2,7 @@
 title: Monocular Depth Estimation by GAN
 summary: |
   <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">Python/TensorFlow/Pix2Pix/Generative-Model/OpenCV</small></em><br>
-  Nov 2020 - Mar 2021 <br>
+  <small><em>Nov 2020 - Mar 2021</em></small> <br>
   Due to the consideration that depth cameras such as Kinect are susceptible to outdoor lighting conditions, resulting in difficulty detecting depth information at longer distances and outdoors, we utilized Generative Adversarial Networks (GANs) to enable the network to learn a transformation method. This allows us to generate frames with depth information solely from a regular RGB camera. This approach reduces hardware costs, mitigates outdoor environmental impacts, and extends the detection range.
 tags:
   - Computer Vision
