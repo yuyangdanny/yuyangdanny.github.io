@@ -78,7 +78,7 @@ sections:
               * Modelling
               * Deploying
         - title: AI Algorithm Engineer Intern, [COMPAL Inc.](https://www.compal.com/)
-          company: <em><small style="background-color: '#c5c5f7'; color: '#330066'; padding: 5px;">Python/PyTorch/Hugging-Face</small></em>
+          company: <em><small style="background-color: plum; color: darkmagenta; padding: 5px;">Python/PyTorch/Hugging-Face</small></em>
           company_url: ''
           company_logo: compal
           location: Taipei, Taiwan
