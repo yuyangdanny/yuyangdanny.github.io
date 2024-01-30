@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Electrical Engineering at National Tsing Hua University
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,17 +25,20 @@ organizations:
     url: https://www.nthu.edu.tw/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
+Related Courses:
+  - Data Mining
   - Computer Vision
+  - Deep Learning
+  - Machine learning  
   - Parallel Programming
 
 # Education to show in About widget
 education:
   courses:
-    - course: Master in Electrical Engineering
+    - course: Master of Electrical Engineering
       institution: National Tsing Hua University
       year: 2009
     - course: Bachelor of Electrical Engineering
