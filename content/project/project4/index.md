@@ -6,7 +6,7 @@ summary: |
   Currently participating in contests regularly.
 tags:
   - Demo
-date: "2023-12-10T00:00:00Z"
+date: "2017-12-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
