@@ -32,6 +32,9 @@ abstract: |
   * Managed data processing on a large scale, handling surveillance camera that amounts to millions of images per day. This highlights the <u style="color: #7dafe2;">large scale</u> of <u style="color: #7dafe2;">data processing</u> challenges faced and tackled.
   * Enhanced the zero-shot inference capabilities of [SAM](https://segment-anything.com/) through prompt engineering, leading to more accurate scene analysis and crucial data extraction. Integrated [Grafana](https://grafana.com/) with MySQL for real-time data visualization and in-depth backend analysis, improving monitoring and analysis efficiency.
   * <u style="color: #7dafe2;">Independently</u> implemented both the prompt engineering enhancement for [SAM](https://segment-anything.com/), <u style="color: #7dafe2;">Activate learning</u> strategy and the [Grafana](https://grafana.com/)-MySQL integration, demonstrating strong individual technical skills and initiative.
+
+  ### Collaboration
+  [National Tsing Hua University](https://www.nthu.edu.tw/) X [Mirle](https://www.mirle.com.tw/)
   
 # Summary. An optional shortened abstract.
 summary: |
