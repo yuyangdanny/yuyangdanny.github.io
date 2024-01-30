@@ -31,13 +31,13 @@ abstract: |
   ### Project Achievements and Technical Contributions
   * Managed data processing on an unprecedented scale, handling surveillance footage that amounts to millions of images per day. This highlights the massive scale of data processing challenges faced and tackled.
   * Enhanced the zero-shot inference capabilities of [SAM](https://segment-anything.com/) through prompt engineering, leading to more accurate scene analysis and crucial data extraction. Integrated [Grafana](https://grafana.com/) with MySQL for real-time data visualization and in-depth backend analysis, improving monitoring and analysis efficiency.
-  * Independently implemented both the prompt engineering enhancement for [SAM](https://segment-anything.com/) and the [Grafana](https://grafana.com/)-[MySQL](https://grafana.com/) integration, demonstrating strong individual technical skills and initiative.
+  * Independently implemented both the prompt engineering enhancement for [SAM](https://segment-anything.com/) and the [Grafana](https://grafana.com/)-MySQL integration, demonstrating strong individual technical skills and initiative.
   
 # Summary. An optional shortened abstract.
 summary: |
   <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">LargeScaleProjects/Git/Python/PyTorch/Object-Detection/ActiveLearning/OpenCV/MySQL/Grafana</small></em>
   * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by 33% while increasing accuracy by 20%.
-  * Grafana and MySQL integration for effective monitoring and data visualization.
+  * [Grafana](https://grafana.com/) and MySQL integration for effective monitoring and data visualization.
 
 tags: ['Large scale project', 'Active learning', 'Object detection', 'Python', 'PyTorch', 'OpenCV', 'Git', 'MySQL', 'Grafana']
 
