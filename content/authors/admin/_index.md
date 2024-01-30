@@ -119,8 +119,9 @@ social:
 highlight_name: true
 ---
 
-I am currently a Master Student in the Department of Electrical Engineering at [National Tsing Hua University](https://www.nthu.edu.tw/), under the supervision of professor [Min Sun](https://aliensunmin.github.io/). My research focus on distilling AI models to optimize their deployment on edge devices.<br><br>
-Additionally I am serving as a deep learning intern at ITRI. I am proficient in several programming languages, including <u style="color: #7dafe2;">Python</u>, <u style="color: #7dafe2;">C++</u> and <u style="color: #7dafe2;">Shell Script</u>. Additionally, I am experienced with frameworks such as <u style="color: #7dafe2;">Linux</u>, <u style="color: #7dafe2;">Git</u>, <u style="color: #7dafe2;">GitHub</u>, <u style="color: #7dafe2;">PyTorch</u>, <u style="color: #7dafe2;">CUDA</u>.<br><br>
-I've also contributed to the development of <u style="color: #7dafe2;">large-scale projects</u> in the field of <u style="color: #7dafe2;">Artificial Intelligence</u> (AI).
+I am currently a Master Student in the Department of Electrical Engineering at [National Tsing Hua University](https://www.nthu.edu.tw/), under the supervision of professor [Min Sun](https://aliensunmin.github.io/). Additionally, I am serving as a deep learning intern at [ITRI](https://www.itri.org.tw/). I am proficient in several programming languages, including <u style="color: #7dafe2;">Python</u>, <u style="color: #7dafe2;">C++</u> and <u style="color: #7dafe2;">Shell Script</u>. Additionally, I am experienced with frameworks such as <u style="color: #7dafe2;">Linux</u>, <u style="color: #7dafe2;">Git</u>, <u style="color: #7dafe2;">GitHub</u>, <u style="color: #7dafe2;">PyTorch</u>, <u style="color: #7dafe2;">CUDA</u>.<br><br>
+In 2023, my research focused on active learning and successfully contributed to <u style="color: #7dafe2;">large-scale</u> <u style="color: #7dafe2;">technology transfer</u> projects. And my current research focus on distilling AI models to optimize their deployment on edge devices.<br><br>
+
+
 
 {style="text-align: justify;"}
