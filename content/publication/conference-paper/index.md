@@ -23,7 +23,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: ''
-publication_short: National Tsing Hua University, advised by [Min Sun](https://aliensunmin.github.io/)
+publication_short: [National Tsing Hua University](https://www.nthu.edu.tw/), advised by [Min Sun](https://aliensunmin.github.io/)
 
 abstract: |
   * Quantifiable Achievements: Managed data processing on an unprecedented scale, handling surveillance footage that amounts to millions of images per day. This highlights the massive scale of data processing challenges faced and tackled.
@@ -61,7 +61,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -81,7 +81,7 @@ image:
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -89,4 +89,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
