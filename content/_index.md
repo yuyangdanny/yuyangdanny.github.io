@@ -65,7 +65,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Human activity efficiency analysis AI system for [Mirle](https://www.mirle.com.tw/)
-          company: <em><small>Git/Python/PyTorch/Object-Detection/Active-Learning/OpenCV</small></em>
+          company: <em><small>Git/Python/PyTorch/Object-Detection/Active-Learning/OpenCV/MySQL/Grafana</small></em>
           company_url: ''
           company_logo: NTHU
           location: Taiwan
