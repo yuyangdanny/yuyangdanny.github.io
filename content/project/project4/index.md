@@ -12,7 +12,7 @@ date: "2023-12-10T00:00:00Z"
 external_link: ''
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: ''
   focal_point: Smart
 
 links:
