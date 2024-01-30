@@ -14,4 +14,10 @@ external_link: https://example.org
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
+
+links:
+  - icon: github
+    icon_pack: fab
+    name: Repository
+    url: https://github.com/yuyangdanny/depth_map-generator
 ---
