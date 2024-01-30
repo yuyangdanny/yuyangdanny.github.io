@@ -1,5 +1,6 @@
 ---
 title: Tweets emotion classification in Kaggle competition (ranked top 6%)
+company: <em><small>Python/PyTorch/Hugging Face</small></em>
 summary: |
   *Python*/*PyTorch*/*Hugging Face*
   * Ranked 6th out of 99 participants in the Kaggle Private Leaderboard.
