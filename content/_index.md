@@ -78,15 +78,13 @@ sections:
               * Modelling
               * Deploying
         - title: AI Algorithm Engineer Intern, [COMPAL Inc.](https://www.compal.com/)
-          company: ''
+          company: <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">Python/PyTorch/Hugging-Face</small></em>
           company_url: ''
           company_logo: compal
           location: Taipei, Taiwan
           date_start: '2021-02-01'
           date_end: '2021-06-25'
           description: |
-              <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">Python/PyTorch/Hugging-Face</small></em><br>
-              
               Responsibilities include:
 
               * Collaborated with the Brazilian AI team on the development of the AI product [Pixsee](https://www.pixseecare.com/tw/), involving tasks related to object detection and emotion classification.
