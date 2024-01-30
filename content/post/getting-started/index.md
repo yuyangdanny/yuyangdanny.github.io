@@ -40,4 +40,5 @@ categories:
 ---
 
 ### Abstract
-  Slove the problems such as two pointer, binary search, BFS, DFS, dynamic programming, backtracking, greedy, monotonic stack, KMP, and so on.
+  Slove the 500+ problems such as two pointer, binary search, BFS, DFS, dynamic programming, backtracking, greedy, monotonic stack, KMP, and so on.
+  Can visit the website [here](https://leetcode.com/zeeztw/)
