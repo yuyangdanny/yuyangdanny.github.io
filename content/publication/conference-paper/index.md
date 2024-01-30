@@ -29,9 +29,9 @@ abstract: |
   The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives.
 
   ### Project Achievements and Technical Contributions
-  * Managed data processing on a large scale, handling surveillance camera that amounts to millions of images per day. This highlights the <u style="color: blue;">large scale</u> of <u style="color: blue;">data processing</u> challenges faced and tackled.
+  * Managed data processing on a large scale, handling surveillance camera that amounts to millions of images per day. This highlights the <u style="color: #007bff;">large scale</u> of <u style="color: #007bff;">data processing</u> challenges faced and tackled.
   * Enhanced the zero-shot inference capabilities of [SAM](https://segment-anything.com/) through prompt engineering, leading to more accurate scene analysis and crucial data extraction. Integrated [Grafana](https://grafana.com/) with MySQL for real-time data visualization and in-depth backend analysis, improving monitoring and analysis efficiency.
-  * <u style="color: blue;">Independently</u> implemented both the prompt engineering enhancement for [SAM](https://segment-anything.com/), <u style="color: blue;">Activate learning</u> strategy and the [Grafana](https://grafana.com/)-MySQL integration, demonstrating strong individual technical skills and initiative.
+  * <u style="color: #007bff;">Independently</u> implemented both the prompt engineering enhancement for [SAM](https://segment-anything.com/), <u style="color: #007bff;">Activate learning</u> strategy and the [Grafana](https://grafana.com/)-MySQL integration, demonstrating strong individual technical skills and initiative.
   
 # Summary. An optional shortened abstract.
 summary: |
