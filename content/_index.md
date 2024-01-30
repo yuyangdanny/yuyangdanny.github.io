@@ -86,7 +86,7 @@ sections:
               * Worked on Works With Alexa Program for ensuring AI product get the certification.
     design:
       columns: '2'
-- block: accomplishments
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Technology Transfer'
