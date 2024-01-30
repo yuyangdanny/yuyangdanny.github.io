@@ -1,23 +1,20 @@
 ---
-title: 'An example conference paper'
+title: 'Human activity efficiency analysis AI system for [Mirle](https://www.mirle.com.tw/)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+author_notes: ''
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-05-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-06-30T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,13 +22,22 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: ''
+publication_short: National Tsing Hua University, advised by [Min Sun](https://aliensunmin.github.io/)
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: |
+  * Quantifiable Achievements: Managed data processing on an unprecedented scale, handling surveillance footage that amounts to millions of images per day. This highlights the massive scale of data processing challenges faced and tackled.
+  * In-depth Technical Details:
+  Enhanced the zero-shot inference capabilities of SAM through prompt engineering, leading to more accurate scene analysis and crucial data extraction. Integrated Grafana with MySQL for real-time data visualization and in-depth backend analysis, improving monitoring and analysis efficiency.
+  * Emphasis on Personal Contribution: Independently implemented both the prompt engineering enhancement for SAM and the Grafana-MySQL integration, demonstrating strong individual technical skills and initiative.
+  * Project Background and Objectives:
+  The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives.
+  
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: |
+  <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">LargeScaleProjects/Git/Python/PyTorch/Object-Detection/ActiveLearning/OpenCV/MySQL/Grafana</small></em>
+  * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by 33% while increasing accuracy by 20%.
+  * Grafana and MySQL integration for effective monitoring and data visualization.
 
 tags: []
 
@@ -43,14 +49,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+# url_pdf: ''
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

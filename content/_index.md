@@ -64,16 +64,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Human activity efficiency analysis AI system for [Mirle](https://www.mirle.com.tw/)
-          company: <em><small>Git/Python/PyTorch/Object-Detection/Active-Learning/OpenCV/MySQL/Grafana</small></em>
-          company_url: ''
-          company_logo: NTHU
-          location: Taiwan
-          date_start: '2022-05-01'
-          date_end: '2023-06-30'
-          description: |
-              * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by 33% while increasing accuracy by 20%.
-              * Grafana and MySQL integration for effective monitoring and data visualization.
         - title: AI Algorithm Engineer Intern, [COMPAL Inc.](https://www.compal.com/)
           company: <em><small>Python/PyTorch/TensorFlow/Object-Detection/Classification/OpenCV</small></em>
           company_url: ''
@@ -86,33 +76,34 @@ sections:
               * Worked on Works With Alexa Program for ensuring AI product get the certification.
     design:
       columns: '2'
-  - block: accomplishments
-    id: Technology Transfer
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Technology Transfer'
-      subtitle: <em><small>LargeScaleProjects/Git/Python/PyTorch/Object-Detection/ActiveLearning/OpenCV/MySQL/Grafana</small></em>
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: ''
-          date_end: '2023-06-30'
-          date_start: '2022-05-01'
-          description: |
-              * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by 33% while increasing accuracy by 20%.
-              * Grafana and MySQL integration for effective monitoring and data visualization.
-          icon: NTHU
-          organization: National Tsing Hua University
-          organization_url: https://www.nthu.edu.tw/
-          title: Human activity efficiency analysis AI system for [Mirle](https://www.mirle.com.tw/)
-          url: ''
-    design:
-      columns: '2'
+  # - block: accomplishments
+  #   id: Technology Transfer
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: 'Technology Transfer'
+  #     subtitle: <em><small>LargeScaleProjects/Git/Python/PyTorch/Object-Detection/ActiveLearning/OpenCV/MySQL/Grafana</small></em>
+  #     # Date format: https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - certificate_url: ''
+  #         date_end: '2023-06-30'
+  #         date_start: '2022-05-01'
+  #         description: |
+
+  #             * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by 33% while increasing accuracy by 20%.
+  #             * Grafana and MySQL integration for effective monitoring and data visualization.
+  #         icon: NTHU
+  #         organization: National Tsing Hua University, advised by [Min Sun](https://aliensunmin.github.io/)
+  #         organization_url: https://www.nthu.edu.tw/
+  #         title: Human activity efficiency analysis AI system for [Mirle](https://www.mirle.com.tw/)
+  #         url: ''
+  #   design:
+  #     columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -145,7 +136,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Technology Transfer
       filters:
         folders:
           - publication
