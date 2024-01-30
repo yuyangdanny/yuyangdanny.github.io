@@ -65,7 +65,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Human activity efficiency analysis AI system for [Mirle](https://www.mirle.com.tw/)
-          company: ''
+          company: <em><small>Git/Python/PyTorch/Object-Detection/Active-Learning</small></em>
           company_url: ''
           company_logo: NTHU
           location: Taiwan
@@ -75,7 +75,7 @@ sections:
               * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by 33% while increasing accuracy by 20%.
               * Grafana and MySQL integration for effective monitoring and data visualization.
         - title: AI Algorithm Engineer Intern, [COMPAL Inc.](https://www.compal.com/)
-          company: <em><small>Python/PyTorch/TensorFlow</small></em>
+          company: <em><small>Python/PyTorch/TensorFlow/Object-Detection/Classification</small></em>
           company_url: ''
           company_logo: compal
           location: Taipei, Taiwan
