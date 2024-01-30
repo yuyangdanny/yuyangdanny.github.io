@@ -67,7 +67,7 @@ sections:
         - title: Human activity efficiency analysis AI system for [Mirle](https://www.mirle.com.tw/)
           company: ''
           company_url: ''
-          company_logo: Mirle
+          company_logo: NTHU
           location: Taiwan
           date_start: '2022-05-01'
           date_end: '2023-06-30'
