@@ -147,7 +147,7 @@ sections:
           name: DM Me
           link: 'https://twitter.com/yuyang_zhuang'
       # Automatically link email and phone or display as text?
-      autolink: true
+      # autolink: true
       # Email form provider
       # form:
       #   provider: netlify
