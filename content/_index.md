@@ -91,7 +91,7 @@ sections:
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Technology Transfer'
-      subtitle: <em><small>LargeScaleProjects/Git/Python/PyTorch/ObjectDetection/ActiveLearning/OpenCV/MySQL/Grafana</small></em>
+      subtitle: <em><small>LargeScaleProjects/Git/Python/PyTorch/Object-Detection/ActiveLearning/OpenCV/MySQL/Grafana</small></em>
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
