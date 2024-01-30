@@ -119,8 +119,8 @@ social:
 highlight_name: true
 ---
 
-I am currently a Master Student in the Department of Electrical Engineering at [National Tsing Hua University](https://www.nthu.edu.tw/), under the supervision of professor [Min Sun](https://aliensunmin.github.io/). My research focus on distilling AI models to optimize their deployment on edge devices.<br>
-Additionally I am serving as a deep learning intern at ITRI. I am proficient in several programming languages, including <u style="color: #add8e6;">Python</u>, <u style="color: #add8e6;">C++</u> and <u style="color: #add8e6;">Shell Script</u>. Additionally, I am experienced with frameworks such as <u style="color: #add8e6;">Linux</u>, <u style="color: #add8e6;">Git</u>, <u style="color: #add8e6;">GitHub</u>, <u style="color: #add8e6;">PyTorch</u>, <u style="color: #add8e6;">CUDA</u>.<br>
+I am currently a Master Student in the Department of Electrical Engineering at [National Tsing Hua University](https://www.nthu.edu.tw/), under the supervision of professor [Min Sun](https://aliensunmin.github.io/). My research focus on distilling AI models to optimize their deployment on edge devices.<br><br>
+Additionally I am serving as a deep learning intern at ITRI. I am proficient in several programming languages, including <u style="color: #add8e6;">Python</u>, <u style="color: #add8e6;">C++</u> and <u style="color: #add8e6;">Shell Script</u>. Additionally, I am experienced with frameworks such as <u style="color: #add8e6;">Linux</u>, <u style="color: #add8e6;">Git</u>, <u style="color: #add8e6;">GitHub</u>, <u style="color: #add8e6;">PyTorch</u>, <u style="color: #add8e6;">CUDA</u>.<br><br>
 I've also contributed to the development of <u style="color: #add8e6;">large-scale projects</u> in the field of <u style="color: #add8e6;">Artificial Intelligence</u> (AI).
 
 {style="text-align: justify;"}
