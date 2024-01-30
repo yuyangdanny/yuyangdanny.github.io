@@ -41,7 +41,7 @@ summary: |
   <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">LargeScaleProjects/Git/Python/PyTorch/Object-Detection/ActiveLearning/OpenCV/MySQL/Grafana</small></em>
   * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by 33% while increasing accuracy by 20%.
   * [Grafana](https://grafana.com/) and MySQL integration for effective monitoring and data visualization.<br><br>
-  <div style="margin-left: -20px;">Collaboration: 
+  <div style="margin-left: -10px;">Collaboration: 
   [National Tsing Hua University](https://www.nthu.edu.tw/), [Mirle](https://www.mirle.com.tw/)</div>
 
 tags: ['Large scale project', 'Active learning', 'Object detection', 'Python', 'PyTorch', 'OpenCV', 'Git', 'MySQL', 'Grafana']
