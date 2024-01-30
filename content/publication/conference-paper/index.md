@@ -26,12 +26,12 @@ publication: ''
 publication_short: National Tsing Hua University, advised by [Min Sun](https://aliensunmin.github.io/)
 
 abstract: |
-  * Quantifiable Achievements: Managed data processing on an unprecedented scale, handling surveillance footage that amounts to millions of images per day. This highlights the massive scale of data processing challenges faced and tackled.
-  * In-depth Technical Details:
-  Enhanced the zero-shot inference capabilities of SAM through prompt engineering, leading to more accurate scene analysis and crucial data extraction. Integrated Grafana with MySQL for real-time data visualization and in-depth backend analysis, improving monitoring and analysis efficiency.
-  * Emphasis on Personal Contribution: Independently implemented both the prompt engineering enhancement for SAM and the Grafana-MySQL integration, demonstrating strong individual technical skills and initiative.
-  * Project Background and Objectives:
   The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives.
+
+  ### Project Achievements and Technical Contributions
+  * Managed data processing on an unprecedented scale, handling surveillance footage that amounts to millions of images per day. This highlights the massive scale of data processing challenges faced and tackled.
+  * Enhanced the zero-shot inference capabilities of [SAM](https://segment-anything.com/) through prompt engineering, leading to more accurate scene analysis and crucial data extraction. Integrated [Grafana](https://grafana.com/) with MySQL for real-time data visualization and in-depth backend analysis, improving monitoring and analysis efficiency.
+  * Independently implemented both the prompt engineering enhancement for [SAM](https://segment-anything.com/) and the [Grafana](https://grafana.com/)-[MySQL](https://grafana.com/) integration, demonstrating strong individual technical skills and initiative.
   
 # Summary. An optional shortened abstract.
 summary: |
