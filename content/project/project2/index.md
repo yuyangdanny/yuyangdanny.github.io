@@ -11,7 +11,8 @@ date: "2022-12-10T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:''Photo by Toa Heftiba on Unsplash
+image:
+  caption: ''
   focal_point: Smart
 ---
 ### Abstract
