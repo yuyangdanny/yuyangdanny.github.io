@@ -72,6 +72,12 @@ summary: |
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grafana Dashboard Demo For Event Analysis</title>
     <style>
+      .zoomed-iframe {
+        zoom: 0.8; /* 缩小到原始大小的 80% */
+        width: 100%;
+        height: 800px; /* 或者您期望的高度 */
+        border: none; /* 移除边框 */
+      }
       .caption {
           font-size: 12px;
           text-align: center;
@@ -79,7 +85,7 @@ summary: |
     </style>
   </head>
   <body>
-      <iframe src="https://snapshots.raintank.io/dashboard/snapshot/KTcoPIfBr7QOKt1VG6ncSX0FSd1omYPw" width="80%" height="800" style="border: none;"></iframe>
+      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/KTcoPIfBr7QOKt1VG6ncSX0FSd1omYPw"></iframe>
       <p class="caption">Grafana Event Analysis Dashboard Demo</p>
   </body>
   </html>
