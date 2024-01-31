@@ -37,16 +37,17 @@ abstract: |
               transform: scale(0.8);
               transform-origin: top left;
               width: 125%; /*
-              height: 100%; /*
+              height: 125%; /*
           }
-          .small-title {
-            font-size: 14px;
+          .caption {
+            font-size: 12px;
+            text-align: center;
           }
       </style>
   </head>
   <body>
       <iframe src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" width="100%" height="600"></iframe>
-      <h3 class="small-title">Grafana Dashboard Demo For Event Analysis</h3>
+      <p class="caption">Grafana Dashboard Demo For Event Analysis</p>
   </body>
   </html>
 
