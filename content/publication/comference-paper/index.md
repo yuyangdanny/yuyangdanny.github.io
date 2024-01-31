@@ -26,7 +26,7 @@ publication: ''
 publication_short: National Tsing Hua University, advised by [Min Sun](https://aliensunmin.github.io/)
 
 abstract: |
-  The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check demo](https://snapshots.raintank.io/dashboard/snapshot/2aXT2GrvKO516ec8Q43I98lL6rczuSSP)
+  The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check demo](https://snapshots.raintank.io/dashboard/snapshot/W0V2YJHHJXK3hahhYR6WbBSKBpav1jX3)
 
   ### Project Achievements and Technical Contributions
   * Managed data processing on a large scale, handling surveillance camera that amounts to millions of images per day. This highlights the <u style="color: #7dafe2;">large scale</u> of <u style="color: #7dafe2;">data processing</u> challenges faced and tackled.
@@ -60,7 +60,7 @@ summary: |
     </style>
   </head>
   <body>
-      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/2aXT2GrvKO516ec8Q43I98lL6rczuSSP"></iframe>
+      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/W0V2YJHHJXK3hahhYR6WbBSKBpav1jX3"></iframe>
       <p class="caption">Grafana Event Analysis Dashboard Demo</p>
   </body>
   </html>
@@ -68,7 +68,7 @@ summary: |
   <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">LargeScaleProjects/Git/Python/PyTorch/Object-Detection/ActiveLearning/OpenCV/MySQL/Grafana</small></em><br>
   <small><em>Mar 2022 – June 2023</em></small>
   * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by <b style="color: red;">33%</b> while increasing accuracy by <b style="color: red;">20%</b>.
-  * [Grafana](https://grafana.com/) and MySQL integration for effective monitoring and [data visualization](https://snapshots.raintank.io/dashboard/snapshot/2aXT2GrvKO516ec8Q43I98lL6rczuSSP).<br><br>
+  * [Grafana](https://grafana.com/) and MySQL integration for effective monitoring and [data visualization](https://snapshots.raintank.io/dashboard/snapshot/W0V2YJHHJXK3hahhYR6WbBSKBpav1jX3).<br><br>
 
   Collaboration: 
   [National Tsing Hua University](https://www.nthu.edu.tw/), [Mirle](https://www.mirle.com.tw/)
