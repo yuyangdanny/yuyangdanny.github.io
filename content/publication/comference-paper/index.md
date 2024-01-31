@@ -65,28 +65,14 @@ abstract: |
   
 # Summary. An optional shortened abstract.
 summary: |
-  <!DOCTYPE html>
   <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Grafana Dashboard Demo For Event Analysis</title>
-    <style>
-        .scaled-iframe {
-            transform: scale();
-            transform-origin: top left;
-            width: 100%;
-            height: 100%;
-        }
-        .caption {
-            font-size: 12px;
-            text-align: center;
-        }
-    </style>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Grafana Dashboard Snapshot</title>
   </head>
   <body>
-      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/KTcoPIfBr7QOKt1VG6ncSX0FSd1omYPw" width="600" height="400"></iframe>
-      <p class="caption">Grafana Event Analysis Dashboard Demo</p>
+      <iframe src="https://snapshots.raintank.io/dashboard/snapshot/KTcoPIfBr7QOKt1VG6ncSX0FSd1omYPw" width="80%" height="500"></iframe>
   </body>
   </html>
 
