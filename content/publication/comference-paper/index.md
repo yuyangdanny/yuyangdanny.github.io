@@ -46,12 +46,12 @@ abstract: |
     </style>
   </head>
   <body>
-      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" width="600" height="800"></iframe>
+      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/KTcoPIfBr7QOKt1VG6ncSX0FSd1omYPw" width="600" height="800"></iframe>
       <p class="caption">Grafana Event Analysis Dashboard Demo</p>
   </body>
   </html>
 
-  The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check demo](https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ)
+  The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check demo](https://snapshots.raintank.io/dashboard/snapshot/KTcoPIfBr7QOKt1VG6ncSX0FSd1omYPw)
 
   ### Project Achievements and Technical Contributions
   * Managed data processing on a large scale, handling surveillance camera that amounts to millions of images per day. This highlights the <u style="color: #7dafe2;">large scale</u> of <u style="color: #7dafe2;">data processing</u> challenges faced and tackled.
@@ -65,6 +65,31 @@ abstract: |
   
 # Summary. An optional shortened abstract.
 summary: |
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grafana Dashboard Demo For Event Analysis</title>
+    <style>
+        .scaled-iframe {
+            transform: scale();
+            transform-origin: top left;
+            width: 100%;
+            height: 100%;
+        }
+        .caption {
+            font-size: 12px;
+            text-align: center;
+        }
+    </style>
+  </head>
+  <body>
+      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/KTcoPIfBr7QOKt1VG6ncSX0FSd1omYPw" width="600" height="400"></iframe>
+      <p class="caption">Grafana Event Analysis Dashboard Demo</p>
+  </body>
+  </html>
+
   <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">LargeScaleProjects/Git/Python/PyTorch/Object-Detection/ActiveLearning/OpenCV/MySQL/Grafana</small></em><br>
   <small><em>Mar 2022 – June 2023</em></small>
   * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by <b style="color: red;">33%</b> while increasing accuracy by <b style="color: red;">20%</b>.
@@ -113,3 +138,14 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grafana Dashboard Snapshot</title>
+</head>
+<body>
+    <iframe src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" width="80%" height="500"></iframe>
+</body>
+</html> -->
