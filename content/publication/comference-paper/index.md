@@ -36,6 +36,8 @@ abstract: |
           .scaled-iframe {
               transform: scale(0.8);
               transform-origin: top left;
+              width: 125%; /*
+              height: 100%; /*
           }
       </style>
   </head>
@@ -45,7 +47,7 @@ abstract: |
   </body>
   </html>
 
-  The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check deom](https://snapshots.raintank.io/dashboard/snapshot/)
+  The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check demo](https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ)
 
   ### Project Achievements and Technical Contributions
   * Managed data processing on a large scale, handling surveillance camera that amounts to millions of images per day. This highlights the <u style="color: #7dafe2;">large scale</u> of <u style="color: #7dafe2;">data processing</u> challenges faced and tackled.
