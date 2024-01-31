@@ -34,10 +34,10 @@ abstract: |
     <title>Grafana Dashboard Demo For Event Analysis</title>
     <style>
         .scaled-iframe {
-            transform: scale(0.8);
+            transform: scale(1.0);
             transform-origin: top left;
-            width: 125%;
-            height: 125%;
+            width: 100%;
+            height: 100%;
         }
         .caption {
             font-size: 12px;
