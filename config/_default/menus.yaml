@@ -10,11 +10,11 @@ main:
   - name: Experience
     url: '#Experience'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
   - name: Technology Transfer
     url: '#featured'
+    weight: 30
+  - name: Projects
+    url: '#projects'
     weight: 40
   - name: Recent Activities
     url: '#posts'

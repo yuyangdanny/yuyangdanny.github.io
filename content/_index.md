@@ -104,6 +104,17 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
+  - block: collection
+    id: featured
+    content:
+      title: Technology Transfer
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: portfolio
     id: projects
     content:
@@ -133,17 +144,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
-    id: featured
-    content:
-      title: Technology Transfer
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: collection
     id: posts
     content:
