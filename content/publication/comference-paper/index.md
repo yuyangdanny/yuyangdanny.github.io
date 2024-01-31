@@ -46,12 +46,12 @@ abstract: |
     </style>
   </head>
   <body>
-      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/SIg9KyZ8ow4sCV69dm00LOSzYLvspBEB"></iframe>
+      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/2aXT2GrvKO516ec8Q43I98lL6rczuSSP"></iframe>
       <p class="caption">Grafana Event Analysis Dashboard Demo</p>
   </body>
   </html>
 
-  The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check demo](https://snapshots.raintank.io/dashboard/snapshot/SIg9KyZ8ow4sCV69dm00LOSzYLvspBEB)
+  The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check demo](https://snapshots.raintank.io/dashboard/snapshot/2aXT2GrvKO516ec8Q43I98lL6rczuSSP)
 
   ### Project Achievements and Technical Contributions
   * Managed data processing on a large scale, handling surveillance camera that amounts to millions of images per day. This highlights the <u style="color: #7dafe2;">large scale</u> of <u style="color: #7dafe2;">data processing</u> challenges faced and tackled.
@@ -85,7 +85,7 @@ summary: |
     </style>
   </head>
   <body>
-      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/SIg9KyZ8ow4sCV69dm00LOSzYLvspBEB"></iframe>
+      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/2aXT2GrvKO516ec8Q43I98lL6rczuSSP"></iframe>
       <p class="caption">Grafana Event Analysis Dashboard Demo</p>
   </body>
   </html>
