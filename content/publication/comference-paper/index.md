@@ -47,7 +47,7 @@ abstract: |
   </head>
   <body>
       <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" width="100%" height="1800"></iframe>
-      <p class="caption">Grafana Dashboard Demo For Event Analysis</p>
+      <p class="caption">Grafana Event Analysis Dashboard Demo</p>
   </body>
   </html>
 
