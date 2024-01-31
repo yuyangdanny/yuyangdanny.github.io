@@ -26,25 +26,8 @@ publication: ''
 publication_short: National Tsing Hua University, advised by [Min Sun](https://aliensunmin.github.io/)
 
 abstract: |
-  <!DOCTYPE html>
-  <html lang="en">
-  <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Grafana Dashboard Snapshot</title>
-      <style>
-          .scaled-iframe {
-              transform: scale(0.8);
-              transform-origin: top left;
-              width: 250%; /* Increase the width to maintain aspect ratio */
-              height: 200%; /* Set the height to twice the original */
-          }
-      </style>
-  </head>
-  <body>
-      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" frameborder="0"></iframe>
-  </body>
-  </html>
+  <iframe src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" frameborder="0" style="transform: scale(0.8); transform-origin: top left;" name="Grafana Demo For Event Analysis"></iframe>
+
 
   The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives.
 
