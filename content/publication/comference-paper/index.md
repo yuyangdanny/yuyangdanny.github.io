@@ -85,7 +85,7 @@ summary: |
     </style>
   </head>
   <body>
-      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/KTcoPIfBr7QOKt1VG6ncSX0FSd1omYPw" width="100%" height="500"></iframe>
+      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/KTcoPIfBr7QOKt1VG6ncSX0FSd1omYPw" width="90%" height="500"></iframe>
       <p class="caption">Grafana Event Analysis Dashboard Demo</p>
   </body>
   </html>
