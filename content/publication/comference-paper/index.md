@@ -32,6 +32,12 @@ abstract: |
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Grafana Dashboard Demo For Event Analysis</title>
+      <style>
+        .scaled-iframe {
+            transform: scale(0.8);
+            transform-origin: top left;
+        }
+      </style>
   </head>
   <body>
       <iframe src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" width="100%" height="600"></iframe>
@@ -39,7 +45,7 @@ abstract: |
   </html>
 
 
-  The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives.
+  The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check deom](https://snapshots.raintank.io/dashboard/snapshot/)
 
   ### Project Achievements and Technical Contributions
   * Managed data processing on a large scale, handling surveillance camera that amounts to millions of images per day. This highlights the <u style="color: #7dafe2;">large scale</u> of <u style="color: #7dafe2;">data processing</u> challenges faced and tackled.
@@ -99,23 +105,3 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-<!DOCTYPE html>
-  <html lang="en">
-  <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Grafana Dashboard Snapshot</title>
-      <style>
-          .scaled-iframe {
-              transform: scale(0.8);
-              transform-origin: top left;
-              width: 125%; /* Increase the width to compensate for the scaling */
-              height: 125%; /* Increase the height to compensate for the scaling */
-          }
-      </style>
-  </head>
-  <body>
-      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" frameborder="0"></iframe>
-  </body>
-  </html>
