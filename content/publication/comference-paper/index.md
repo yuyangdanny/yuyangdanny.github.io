@@ -60,15 +60,6 @@ abstract: |
 
   ### Collaboration
   [National Tsing Hua University](https://www.nthu.edu.tw/) X [Mirle](https://www.mirle.com.tw/)
-  
-# Summary. An optional shortened abstract.
-summary: |
-  <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">LargeScaleProjects/Git/Python/PyTorch/Object-Detection/ActiveLearning/OpenCV/MySQL/Grafana</small></em><br>
-  <small><em>Mar 2022 – June 2023</em></small>
-  * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by <b style="color: red;">33%</b> while increasing accuracy by <b style="color: red;">20%</b>.
-  * [Grafana](https://grafana.com/) and MySQL integration for effective monitoring and data visualization.<br><br>
-  Collaboration: 
-  [National Tsing Hua University](https://www.nthu.edu.tw/), [Mirle](https://www.mirle.com.tw/)
 
   <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">LargeScaleProjects/Git/Python/PyTorch/Object-Detection/ActiveLearning/OpenCV/MySQL/Grafana</small></em><br>
   <small><em>Mar 2022 – June 2023</em></small>
@@ -82,6 +73,15 @@ summary: |
   * [Grafana](https://grafana.com/) and MySQL integration for effective monitoring and data visualization.<br><br>
   Collaboration: 
   [National Tsing Hua University](https://www.nthu.edu.tw/), [Mirle](https://www.mirle.com.tw/)
+  <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">LargeScaleProjects/Git/Python/PyTorch/Object-Detection/ActiveLearning/OpenCV/MySQL/Grafana</small></em><br>
+  <small><em>Mar 2022 – June 2023</em></small>
+  * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by <b style="color: red;">33%</b> while increasing accuracy by <b style="color: red;">20%</b>.
+  * [Grafana](https://grafana.com/) and MySQL integration for effective monitoring and data visualization.<br><br>
+  Collaboration: 
+  [National Tsing Hua University](https://www.nthu.edu.tw/), [Mirle](https://www.mirle.com.tw/)
+  
+# Summary. An optional shortened abstract.
+summary: |
   <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">LargeScaleProjects/Git/Python/PyTorch/Object-Detection/ActiveLearning/OpenCV/MySQL/Grafana</small></em><br>
   <small><em>Mar 2022 – June 2023</em></small>
   * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by <b style="color: red;">33%</b> while increasing accuracy by <b style="color: red;">20%</b>.
