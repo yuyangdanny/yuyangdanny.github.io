@@ -36,8 +36,8 @@ abstract: |
           .scaled-iframe {
               transform: scale(0.8);
               transform-origin: top left;
-              width: 125%; /* Increase the width to compensate for the scaling */
-              height: 125%; /* Increase the height to compensate for the scaling */
+              width: 250%; /* Increase the width to maintain aspect ratio */
+              height: 200%; /* Set the height to twice the original */
           }
       </style>
   </head>
