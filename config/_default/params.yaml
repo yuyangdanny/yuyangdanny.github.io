@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
+  # theme_night: minimal
   font: minimal
   font_size: L
 
@@ -64,7 +64,7 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: dracula
+    # theme_dark: dracula
   math:
     enable: false
   privacy_pack:
