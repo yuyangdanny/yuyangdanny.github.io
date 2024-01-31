@@ -29,24 +29,24 @@ abstract: |
   <!DOCTYPE html>
   <html lang="en">
   <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Grafana Dashboard Demo For Event Analysis</title>
-      <style>
-          .scaled-iframe {
-              transform: scale(0.8);
-              transform-origin: top left;
-              width: 125%; /*
-              height: 125%; /*
-          }
-          .caption {
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grafana Dashboard Demo For Event Analysis</title>
+    <style>
+        .scaled-iframe {
+            transform: scale(0.6);
+            transform-origin: top left;
+            width: 100%;
+            height: 100%;
+        }
+        .caption {
             font-size: 12px;
             text-align: center;
-          }
-      </style>
+        }
+    </style>
   </head>
   <body>
-      <iframe src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" width="100%" height="600"></iframe>
+      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" width="100%" height="600"></iframe>
       <p class="caption">Grafana Dashboard Demo For Event Analysis</p>
   </body>
   </html>
