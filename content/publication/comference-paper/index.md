@@ -33,17 +33,17 @@ abstract: |
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Grafana Dashboard Demo For Event Analysis</title>
       <style>
-        .scaled-iframe {
-            transform: scale(0.8);
-            transform-origin: top left;
-        }
+          .scaled-iframe {
+              transform: scale(0.8);
+              transform-origin: top left;
+          }
       </style>
   </head>
   <body>
       <iframe src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" width="100%" height="600"></iframe>
+      <h1>Grafana Dashboard Demo For Event Analysis</h1>
   </body>
   </html>
-
 
   The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check deom](https://snapshots.raintank.io/dashboard/snapshot/)
 
