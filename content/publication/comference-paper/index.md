@@ -33,25 +33,25 @@ abstract: |
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grafana Dashboard Demo For Event Analysis</title>
     <style>
-        .scaled-iframe {
-            transform: scale();
-            transform-origin: top left;
-            width: 100%;
-            height: 100%;
-        }
-        .caption {
-            font-size: 12px;
-            text-align: center;
-        }
+      .zoomed-iframe {
+        zoom: 0.6;
+        width: 100%;
+        height: 600px;
+        border: none;
+      }
+      .caption {
+          font-size: 12px;
+          text-align: center;
+      }
     </style>
   </head>
   <body>
-      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/KTcoPIfBr7QOKt1VG6ncSX0FSd1omYPw" width="600" height="800"></iframe>
+      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/SIg9KyZ8ow4sCV69dm00LOSzYLvspBEB"></iframe>
       <p class="caption">Grafana Event Analysis Dashboard Demo</p>
   </body>
   </html>
 
-  The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check demo](https://snapshots.raintank.io/dashboard/snapshot/KTcoPIfBr7QOKt1VG6ncSX0FSd1omYPw)
+  The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check demo](https://snapshots.raintank.io/dashboard/snapshot/SIg9KyZ8ow4sCV69dm00LOSzYLvspBEB)
 
   ### Project Achievements and Technical Contributions
   * Managed data processing on a large scale, handling surveillance camera that amounts to millions of images per day. This highlights the <u style="color: #7dafe2;">large scale</u> of <u style="color: #7dafe2;">data processing</u> challenges faced and tackled.
@@ -73,10 +73,10 @@ summary: |
     <title>Grafana Dashboard Demo For Event Analysis</title>
     <style>
       .zoomed-iframe {
-        zoom: 0.6; /* 缩小到原始大小的 80% */
+        zoom: 0.6;
         width: 100%;
-        height: 600px; /* 或者您期望的高度 */
-        border: none; /* 移除边框 */
+        height: 600px;
+        border: none;
       }
       .caption {
           font-size: 12px;
@@ -85,7 +85,7 @@ summary: |
     </style>
   </head>
   <body>
-      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/KTcoPIfBr7QOKt1VG6ncSX0FSd1omYPw"></iframe>
+      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/SIg9KyZ8ow4sCV69dm00LOSzYLvspBEB"></iframe>
       <p class="caption">Grafana Event Analysis Dashboard Demo</p>
   </body>
   </html>
