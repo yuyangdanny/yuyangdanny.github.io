@@ -31,10 +31,18 @@ abstract: |
   <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Grafana Dashboard Demo</title>
+      <title>Grafana Dashboard Snapshot</title>
+      <style>
+          .scaled-iframe {
+              transform: scale(0.8);
+              transform-origin: top left;
+              width: 125%; /* Increase the width to compensate for the scaling */
+              height: 125%; /* Increase the height to compensate for the scaling */
+          }
+      </style>
   </head>
   <body>
-      <iframe src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" width="80%" height="500"></iframe>
+      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" frameborder="0"></iframe>
   </body>
   </html>
 
@@ -99,3 +107,22 @@ image:
 # slides: example
 ---
 
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Grafana Dashboard Snapshot</title>
+      <style>
+          .scaled-iframe {
+              transform: scale(0.8);
+              transform-origin: top left;
+              width: 125%; /* Increase the width to compensate for the scaling */
+              height: 125%; /* Increase the height to compensate for the scaling */
+          }
+      </style>
+  </head>
+  <body>
+      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" frameborder="0"></iframe>
+  </body>
+  </html>
