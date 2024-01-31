@@ -73,9 +73,9 @@ summary: |
     <title>Grafana Dashboard Demo For Event Analysis</title>
     <style>
       .zoomed-iframe {
-        zoom: 0.8; /* 缩小到原始大小的 80% */
+        zoom: 0.6; /* 缩小到原始大小的 80% */
         width: 100%;
-        height: 800px; /* 或者您期望的高度 */
+        height: 600px; /* 或者您期望的高度 */
         border: none; /* 移除边框 */
       }
       .caption {
