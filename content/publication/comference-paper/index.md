@@ -34,7 +34,7 @@ abstract: |
     <title>Grafana Dashboard Demo For Event Analysis</title>
     <style>
         .scaled-iframe {
-            transform: scale(0.5);
+            transform: scale();
             transform-origin: top left;
             width: 200%;
             height: 200%;
@@ -46,7 +46,7 @@ abstract: |
     </style>
   </head>
   <body>
-      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" width="600" height="ˊ1200"></iframe>
+      <iframe class="scaled-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" width="600" height="600"></iframe>
       <p class="caption">Grafana Event Analysis Dashboard Demo</p>
   </body>
   </html>
