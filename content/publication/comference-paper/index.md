@@ -36,8 +36,8 @@ abstract: |
         .scaled-iframe {
             transform: scale(0.6);
             transform-origin: top left;
-            width: 100%;
-            height: 100%;
+            width: 166%;
+            height: 166%;
         }
         .caption {
             font-size: 12px;
