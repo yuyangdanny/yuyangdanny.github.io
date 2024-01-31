@@ -61,7 +61,7 @@ summary: |
   </head>
   <body>
       <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/2aXT2GrvKO516ec8Q43I98lL6rczuSSP"></iframe>
-      <p class="caption">Grafana Event Analysis Dashboard Demo</p>
+      <p class="caption">Grafana Event Analysis Dashboard Demo [here](https://snapshots.raintank.io/dashboard/snapshot/2aXT2GrvKO516ec8Q43I98lL6rczuSSP)</p>
   </body>
   </html>
 
