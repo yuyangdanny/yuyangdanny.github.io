@@ -32,9 +32,8 @@ abstract: |
   * Managed data processing on a large scale, handling surveillance camera that amounts to millions of images per day. This highlights the <u style="color: #7dafe2;">large scale</u> of <u style="color: #7dafe2;">data processing</u> challenges faced and tackled.
   * Enhanced the zero-shot inference capabilities of [SAM](https://segment-anything.com/) through prompt engineering, leading to more accurate scene analysis and crucial data extraction. Integrated [Grafana](https://grafana.com/) with MySQL for real-time data visualization and in-depth backend analysis, improving monitoring and analysis efficiency.
   * <u style="color: #7dafe2;">Independently</u> implemented both the prompt engineering enhancement for [SAM](https://segment-anything.com/), <u style="color: #7dafe2;">Activate learning</u> strategy and the [Grafana](https://grafana.com/)-MySQL integration, demonstrating strong individual technical skills and initiative.
-
   ### Collaborating companies: <br>
-  <a href="https://www.mirle.com.tw/"><img src="/icons/brands/mirle.png" alt="Mirle" style="width: 20%;"></a><br>
+  [![Mirle](/icons/brands/mirle.png)](https://www.mirle.com.tw/){:width="10%"}
 
   
 # Summary. An optional shortened abstract.
@@ -68,9 +67,8 @@ summary: |
   <small><em>Mar 2022 – June 2023</em></small>
   * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by <b style="color: red;">33%</b> while increasing accuracy by <b style="color: red;">20%</b>.
   * [Grafana](https://grafana.com/) and MySQL integration for effective monitoring and [data visualization](https://snapshots.raintank.io/dashboard/snapshot/W0V2YJHHJXK3hahhYR6WbBSKBpav1jX3).<br>
-
   Collaborating companies: <br>
-  <a href="https://www.mirle.com.tw/"><img src="/icons/brands/mirle.png" alt="Mirle" style="width: 10%;"></a><br>
+  [![Mirle](/icons/brands/mirle.png)](https://www.mirle.com.tw/){:width="10%"}
 
 tags: ['Large scale project', 'Active learning', 'Object detection', 'Python', 'PyTorch', 'OpenCV', 'Git', 'MySQL', 'Grafana']
 
