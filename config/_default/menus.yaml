@@ -10,7 +10,7 @@ main:
   - name: Experience
     url: '#Experience'
     weight: 20
-  - name: Industry Collaboration
+  - name: Industrial collaboration
     url: '#featured'
     weight: 30
   - name: Projects

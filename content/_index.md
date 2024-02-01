@@ -107,7 +107,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Industry Collaboration
+      title: Industrial collaboration
       filters:
         folders:
           - publication
