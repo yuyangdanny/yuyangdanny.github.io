@@ -51,16 +51,8 @@ summary: |
     width: 100%;
     height: 600px;
     border: none;
+    clip: rect(0px, auto, 250px, auto); /* 通过 clip 属性设置裁剪区域 */
   }
-
-  /* 隐藏标签和搜索框 */
-  .dashboard-container .navbar-vertical {
-    display: none;
-  }
-  .dashboard-container .search-bar {
-    display: none;
-  }
-
   .caption {
     font-size: 12px;
     text-align: center;
