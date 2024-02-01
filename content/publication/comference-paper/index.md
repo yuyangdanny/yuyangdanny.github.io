@@ -10,7 +10,7 @@ authors:
 # Author notes (optional)
 author_notes: ''
 
-date: '2022-05-01T00:00:00Z'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,7 @@ publication_types: []
 
 # Publication name and optional abbreviated publication name.
 publication: ''
-publication_short: National Tsing Hua University, advised by [Min Sun](https://aliensunmin.github.io/)
+publication_short: Mar 2022 - June 2023 . [National Tsing Hua University](https://www.nthu.edu.tw/), advised by [Min Sun](https://aliensunmin.github.io/)
 
 abstract: |
   The ultimate goal of this technology transfer project was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check demo](https://snapshots.raintank.io/dashboard/snapshot/W0V2YJHHJXK3hahhYR6WbBSKBpav1jX3)
