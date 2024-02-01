@@ -34,7 +34,7 @@ abstract: |
   * <u style="color: #7dafe2;">Independently</u> implemented both the prompt engineering enhancement for [SAM](https://segment-anything.com/), <u style="color: #7dafe2;">Activate learning</u> strategy and the [Grafana](https://grafana.com/)-MySQL integration, demonstrating strong individual technical skills and initiative.
 
   ### Collaborating companies: <br>
-  <a href="https://www.mirle.com.tw/"><img src="/icons/brands/mirle.png" alt="Mirle" style="width: 10%;"></a><br>
+  <a href="https://www.mirle.com.tw/"><img src="/icons/brands/mirle.png" alt="Mirle" style="width: 20%;"></a><br>
 
   
 # Summary. An optional shortened abstract.
