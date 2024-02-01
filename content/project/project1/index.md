@@ -1,7 +1,7 @@
 ---
 title: Tweets emotion classification in Kaggle competition (ranked top 6%)
 summary: |
-  <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">Python/PyTorch/Hugging-Face/Text-Cleaning</small></em><br>
+  <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">Python/PyTorch/NLP/Hugging-Face/Text-Cleaning</small></em><br>
   <small><em>Nov 2023 – Dec 2023</em></small><br>
   Ranked <b style="color: red;">6th out of 99</b> participants in the Kaggle Private Leaderboard.
 tags:
