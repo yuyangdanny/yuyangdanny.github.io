@@ -107,7 +107,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Technology Transfer
+      title: Industry Collaboration
       filters:
         folders:
           - publication
