@@ -37,31 +37,39 @@ abstract: |
   [National Tsing Hua University](https://www.nthu.edu.tw/) X [Mirle](https://www.mirle.com.tw/)
 
   
-  
 # Summary. An optional shortened abstract.
 summary: |
   <!DOCTYPE html>
   <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Grafana Dashboard Demo For Event Analysis</title>
-    <style>
-      .zoomed-iframe {
-        zoom: 0.6;
-        width: 100%;
-        height: 600px;
-        border: none;
-      }
-      .caption {
-          font-size: 12px;
-          text-align: center;
-      }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grafana Dashboard Demo For Event Analysis</title>
+  <style>
+  .zoomed-iframe {
+    zoom: 0.6;
+    width: 100%;
+    height: 600px;
+    border: none;
+  }
+
+  /* 隐藏标签和搜索框 */
+  .dashboard-container .navbar-vertical {
+    display: none;
+  }
+  .dashboard-container .search-bar {
+    display: none;
+  }
+
+  .caption {
+    font-size: 12px;
+    text-align: center;
+  }
+  </style>
   </head>
   <body>
-      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/W0V2YJHHJXK3hahhYR6WbBSKBpav1jX3"></iframe>
-      <p class="caption">Grafana Event Analysis Dashboard Demo</p>
+  <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/W0V2YJHHJXK3hahhYR6WbBSKBpav1jX3"></iframe>
+  <p class="caption">Grafana Event Analysis Dashboard Demo</p>
   </body>
   </html>
 
@@ -115,13 +123,26 @@ image:
 # slides: example
 ---
 <!-- <!DOCTYPE html>
-<html lang="en">
-<head>
+  <html lang="en">
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Grafana Dashboard Snapshot</title>
-</head>
-<body>
-    <iframe src="https://snapshots.raintank.io/dashboard/snapshot/vLjMLnN3oesNwZhGOb77xVNNKQqziGlJ" width="80%" height="500"></iframe>
-</body>
-</html> -->
+    <title>Grafana Dashboard Demo For Event Analysis</title>
+    <style>
+      .zoomed-iframe {
+        zoom: 0.6;
+        width: 100%;
+        height: 600px;
+        border: none;
+      }
+      .caption {
+          font-size: 12px;
+          text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/W0V2YJHHJXK3hahhYR6WbBSKBpav1jX3"></iframe>
+      <p class="caption">Grafana Event Analysis Dashboard Demo</p>
+  </body>
+  </html> -->
