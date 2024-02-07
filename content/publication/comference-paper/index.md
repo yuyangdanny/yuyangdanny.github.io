@@ -35,7 +35,7 @@ abstract: |
   * Enhanced the zero-shot inference capabilities of [SAM: ](https://segment-anything.com/) 
   Improved [SAM's](https://segment-anything.com/) zero-shot inference abilities through prompt engineering, resulting in more accurate scene analysis and crucial data extraction.
   * Real-time data visualization:
-  Integrated [Grafana](https://grafana.com/) with MySQL for real-time data visualization and in-depth backend analysis, improving monitoring and analysis efficiency.
+  Integrated [Grafana](https://grafana.com/) with MySQL for real-time data visualization for backend analysis.
   * <u style="color: #7dafe2;">Independently</u> Implemented both the prompt engineering enhancement for [SAM](https://segment-anything.com/), <u style="color: #7dafe2;">Activate learning</u> strategy and the [Grafana](https://grafana.com/)-MySQL integration, it demonstrating individual technical skills.
   ### Collaborating companies: [Mirle](https://www.mirle.com.tw/)
 
