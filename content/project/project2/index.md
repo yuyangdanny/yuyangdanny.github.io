@@ -16,3 +16,4 @@ image:
   focal_point: Smart
 ---
 ### Abstract
+Image stitching has applications in projects involving 360 layouts or 3D scene reconstruction. For instance, in data collection scenarios for 360 layouts, achieving higher FPS can greatly enhance the potential for real-time scene reconstruction when combined with AI models for 3D reconstruction. Therefore, I implemented optimizations using CUDA to improve the overall computation speed of image stitching.
