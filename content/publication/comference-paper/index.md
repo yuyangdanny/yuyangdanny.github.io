@@ -26,12 +26,17 @@ publication: ''
 publication_short: National Tsing Hua University[(NTHU)](https://www.nthu.edu.tw/), advised by [Min Sun](https://aliensunmin.github.io/)
 
 abstract: |
-  This is an event analysis system related to factory production efficiency, which utilizes computer vision and artificial intelligence for inference and analysis. the ultimate goal of it was to aid in improving factory production efficiency through an AI detection system capable of analyzing scenes. Additionally, the system was designed for rapid optimization through new data, highlighting strategic thinking and a deep understanding of business objectives. [check demo](https://snapshots.raintank.io/dashboard/snapshot/W0V2YJHHJXK3hahhYR6WbBSKBpav1jX3)
+  This is an event analysis system related to factory production efficiency, which utilizes computer vision and artificial intelligence for inference and analysis. The goal of the system is to improve factory production efficiency by employing an AI detection system that capable of analyzing factory scenes. Additionally, the system is designed to be quickly <u style="color: #7dafe2;">optimized</u> through both <u style="color: #7dafe2;">daily data</u> or <u style="color: #7dafe2;">new data</u> for business objectives. 
+  [check demo](https://snapshots.raintank.io/dashboard/snapshot/W0V2YJHHJXK3hahhYR6WbBSKBpav1jX3)
 
   ### Project Achievements and Technical Contributions
-  * Managed data processing on a large scale, handling surveillance camera that amounts to millions of images per day. This highlights the <u style="color: #7dafe2;">large scale</u> of <u style="color: #7dafe2;">data processing</u> challenges faced and tackled.
-  * Enhanced the zero-shot inference capabilities of [SAM](https://segment-anything.com/) through prompt engineering, leading to more accurate scene analysis and crucial data extraction. Integrated [Grafana](https://grafana.com/) with MySQL for real-time data visualization and in-depth backend analysis, improving monitoring and analysis efficiency.
-  * <u style="color: #7dafe2;">Independently</u> implemented both the prompt engineering enhancement for [SAM](https://segment-anything.com/), <u style="color: #7dafe2;">Activate learning</u> strategy and the [Grafana](https://grafana.com/)-MySQL integration, demonstrating strong individual technical skills and initiative.
+  * Data processing and management pipeline:
+  The processing and selection for <u style="color: #7dafe2;">millions of surveillance camera images</u> per day highlight the <u style="color: #7dafe2;">large-scale data<\u> processing challenges we encounter. This involves <u style="color: #7dafe2;">data collection, analyzing</u>, and <u style="color: #7dafe2;">selection</u> from <u style="color: #7dafe2;">various domains</u>.
+  * Enhanced the zero-shot inference capabilities of [SAM: ](https://segment-anything.com/) 
+  Improved [SAM's](https://segment-anything.com/) zero-shot inference abilities through prompt engineering, resulting in more accurate scene analysis and crucial data extraction.
+  * Real-time data visualization:
+  Integrated [Grafana](https://grafana.com/) with MySQL for real-time data visualization and in-depth backend analysis, improving monitoring and analysis efficiency.
+  * <u style="color: #7dafe2;">Independently</u> Implemented both the prompt engineering enhancement for [SAM](https://segment-anything.com/), <u style="color: #7dafe2;">Activate learning</u> strategy and the [Grafana](https://grafana.com/)-MySQL integration, it demonstrating individual technical skills.
   ### Collaborating companies: [Mirle](https://www.mirle.com.tw/)
 
   
