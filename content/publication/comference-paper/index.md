@@ -31,7 +31,7 @@ abstract: |
 
   ### Project Achievements and Technical Contributions
   * Data processing and management pipeline:
-  The processing and selection for <u style="color: #7dafe2;">millions of surveillance camera images</u> per day highlight the <u style="color: #7dafe2;">large-scale data<\u> processing challenges we encounter. This involves <u style="color: #7dafe2;">data collection, analyzing</u>, and <u style="color: #7dafe2;">selection</u> from <u style="color: #7dafe2;">various domains</u>.
+  The processing and selection for <u style="color: #7dafe2;">millions</u> of surveillance camera images per day highlight the <u style="color: #7dafe2;">large-scale data</u> processing challenges we encounter. This involves <u style="color: #7dafe2;">data collection, analyzing</u>, and <u style="color: #7dafe2;">selection</u> from <u style="color: #7dafe2;">various domains</u>.
   * Enhanced the zero-shot inference capabilities of [SAM: ](https://segment-anything.com/) 
   Improved [SAM's](https://segment-anything.com/) zero-shot inference abilities through prompt engineering, resulting in more accurate scene analysis and crucial data extraction.
   * Real-time data visualization:

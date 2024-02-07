@@ -42,3 +42,5 @@ In this competition, it provide a dataset which was crawled from Twitter, and al
 
 You have to clean the data by doing some pre-processing first. Then, apply feature engineering or any other data mining technique you have or haven't learned in the Data Mining course. The final goal is to learn a model that is able to predict the emotion behind each tweet.
 
+
+
