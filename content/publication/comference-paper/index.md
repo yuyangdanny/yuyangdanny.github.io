@@ -27,7 +27,7 @@ publication_short: National Tsing Hua University[(NTHU)](https://www.nthu.edu.tw
 
 abstract: |
   This is an event analysis system related to factory production efficiency, which utilizes object detection and tracking for inference and analysis. The goal of the system is to improve factory production efficiency by employing an AI detection system that capable of analyzing factory scenes. 
-  [check demo](https://snapshots.raintank.io/dashboard/snapshot/W0V2YJHHJXK3hahhYR6WbBSKBpav1jX3)
+  [Quick example](https://snapshots.raintank.io/dashboard/snapshot/W0V2YJHHJXK3hahhYR6WbBSKBpav1jX3)
 
   ### Problem and Goal
   The object detection model based on visual data is quite advanced, but its performance tends to drop when encountering new data. Manual labeling of all data would be costly and impractical. Hence, there's a need for a general data selection or augmentation strategy to quickly optimize the system when dealing with new or daily data, so the system is designed to be quickly <u style="color: #7dafe2;">optimized</u> through both <u style="color: #7dafe2;">daily data</u> or <u style="color: #7dafe2;">new data</u> for business objectives. 
