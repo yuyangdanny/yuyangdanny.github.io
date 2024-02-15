@@ -23,3 +23,6 @@ links:
 ---
 ### Abstract
 Image stitching has applications in projects involving 360 layouts or 3D scene reconstruction. For instance, in data collection scenarios for 360 layouts, achieving higher FPS can greatly enhance the potential for real-time scene reconstruction when combined with AI models for 3D reconstruction. Therefore, I implemented optimizations using CUDA to improve the overall computation speed of image stitching.
+
+### Project Achievements
+Stitched a series of consecutive images to create panoramic image, accelerating the RANSAC algorithm and Homography transform using CUDA for parallel computation, achieving a <b style="color: red;">5.3x</b> speedup using a single GPU.
