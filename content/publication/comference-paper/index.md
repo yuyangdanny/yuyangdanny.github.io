@@ -26,11 +26,11 @@ publication: ''
 publication_short: National Tsing Hua University[(NTHU)](https://www.nthu.edu.tw/), advised by [Min Sun](https://aliensunmin.github.io/)
 
 abstract: |
-  This is an event analysis system related to factory production efficiency, which utilizes computer vision and artificial intelligence for inference and analysis. The goal of the system is to improve factory production efficiency by employing an AI detection system that capable of analyzing factory scenes. 
+  This is an event analysis system related to factory production efficiency, which utilizes object detection and tracking for inference and analysis. The goal of the system is to improve factory production efficiency by employing an AI detection system that capable of analyzing factory scenes. 
   [check demo](https://snapshots.raintank.io/dashboard/snapshot/W0V2YJHHJXK3hahhYR6WbBSKBpav1jX3)
 
   ### Problem and Goal
-  While the object detection model based on visual data is quite advanced, encountering new data will lead to a performance drop. Manual labeling of all data would be costly and impractical. Hence, there's a need for a general data selection or augmentation strategy to quickly optimize the system when dealing with new or daily data, so the system is designed to be quickly <u style="color: #7dafe2;">optimized</u> through both <u style="color: #7dafe2;">daily data</u> or <u style="color: #7dafe2;">new data</u> for business objectives. 
+  The object detection model based on visual data is quite advanced, but its performance tends to drop when encountering new data. Manual labeling of all data would be costly and impractical. Hence, there's a need for a general data selection or augmentation strategy to quickly optimize the system when dealing with new or daily data, so the system is designed to be quickly <u style="color: #7dafe2;">optimized</u> through both <u style="color: #7dafe2;">daily data</u> or <u style="color: #7dafe2;">new data</u> for business objectives. 
 
   ### Project Achievements
   * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by <b style="color: red;">33%</b> while increasing accuracy by <b style="color: red;">20%</b>.
