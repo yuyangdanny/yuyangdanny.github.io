@@ -27,14 +27,14 @@ publication_short: National Tsing Hua University[(NTHU)](https://www.nthu.edu.tw
 
 abstract: |
   This is an event analysis system related to factory production efficiency, which utilizes object detection and tracking for inference and analysis. The goal of the system is to improve factory production efficiency by employing an AI detection system that capable of analyzing factory scenes. 
-  [Quick example](https://snapshots.raintank.io/dashboard/snapshot/G2DESoyIoZQkPENvyTBFlPhnLcgWJjzX?orgId=0)
+  [Quick example](https://snapshots.raintank.io/dashboard/snapshot/6cayiL17EX2haDB4HXJmEuKjibbTR7dG)
 
   ### Problem and Goal
   The object detection model based on visual data is quite advanced, but its performance tends to drop when encountering new data. Manual labeling of all data would be costly and impractical. Hence, there's a need for a general data selection or augmentation strategy to quickly optimize the system when dealing with new or daily data, so the system is designed to be quickly <u style="color: #7dafe2;">optimized</u> through both <u style="color: #7dafe2;">daily data</u> or <u style="color: #7dafe2;">new data</u> for business objectives. 
 
   ### Project Achievements
   * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by <b style="color: red;">33%</b> while increasing accuracy by <b style="color: red;">20%</b>.
-  * [Grafana](https://grafana.com/) and MySQL integration for effective monitoring and [data visualization](https://snapshots.raintank.io/dashboard/snapshot/G2DESoyIoZQkPENvyTBFlPhnLcgWJjzX?orgId=0).
+  * [Grafana](https://grafana.com/) and MySQL integration for effective monitoring and [data visualization](https://snapshots.raintank.io/dashboard/snapshot/6cayiL17EX2haDB4HXJmEuKjibbTR7dG).
 
   ### Technical Contributions
   * Data processing and management pipeline:
@@ -70,7 +70,7 @@ summary: |
     </style>
   </head>
   <body>
-      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/G2DESoyIoZQkPENvyTBFlPhnLcgWJjzX?orgId=0"></iframe>
+      <iframe class="zoomed-iframe" src="https://snapshots.raintank.io/dashboard/snapshot/6cayiL17EX2haDB4HXJmEuKjibbTR7dG"></iframe>
       <p class="caption">Grafana Event Analysis Dashboard Demo</p>
   </body>
   </html>
@@ -78,7 +78,7 @@ summary: |
   <em><small style="background-color: #c5c5f7; color: #330066; padding: 5px;">LargeScaleProjects/Git/Python/PyTorch/Object-Detection/ActiveLearning/OpenCV/MySQL/Grafana</small></em><br>
   <small><em>Mar 2022 – June 2023</em></small>
   * Designed an active learning and data enrichment strategy, aiming to analyze weaknesses and extract crucial data from daily videos. This strategy further leverages prompt engineering to improve performance of [SAM](https://segment-anything.com/), resulting in high-quality data generation. This approach has successfully reduced labeling costs by <b style="color: red;">33%</b> while increasing accuracy by <b style="color: red;">20%</b>.
-  * [Grafana](https://grafana.com/) and MySQL integration for effective monitoring and [data visualization](https://snapshots.raintank.io/dashboard/snapshot/G2DESoyIoZQkPENvyTBFlPhnLcgWJjzX?orgId=0).<br><br>
+  * [Grafana](https://grafana.com/) and MySQL integration for effective monitoring and [data visualization](https://snapshots.raintank.io/dashboard/snapshot/6cayiL17EX2haDB4HXJmEuKjibbTR7dG).<br><br>
   Collaborating companies: [Mirle](https://www.mirle.com.tw/)
 
 tags: ['Large scale project', 'Active learning', 'Object detection', 'Python', 'PyTorch', 'OpenCV', 'Git', 'MySQL', 'Grafana']
