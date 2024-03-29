@@ -71,8 +71,8 @@ sections:
           location: Hsinchu, Taiwan
           date_start: '2024-04-01'
           date_end: '2024-09-30'
-          description: ''
-      items:
+          description: 'Open source'
+
         - title: AI Algorithm Engineer Intern, [COMPAL Inc.](https://www.compal.com/)
           company: <em><small>Python/PyTorch/TensorFlow/Object-Detection/Classification/OpenCV</small></em>
           company_url: ''
