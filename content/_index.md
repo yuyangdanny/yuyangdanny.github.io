@@ -65,7 +65,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: AI Software Platform Engineer Intern, [Qualcomm](https://www.qualcomm.com/)
-          company: <em><small>Python/PyTorch/C++</small></em>
+          company: <em><small>Python/C++/PyTorch</small></em>
           company_url: ''
           company_logo: Qcom
           location: Hsinchu, Taiwan
