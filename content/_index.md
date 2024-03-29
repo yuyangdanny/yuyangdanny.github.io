@@ -64,6 +64,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: AI Software Platform Engineer Intern, [Qualcomm](https://www.qualcomm.com/)
+          company: <em><small>Python/PyTorch/C++</small></em>
+          company_url: ''
+          company_logo: Qcom
+          location: Hsinchu, Taiwan
+          date_start: '2024-04-01'
+          date_end: 'present'
+          description: ""
+      items:
         - title: AI Algorithm Engineer Intern, [COMPAL Inc.](https://www.compal.com/)
           company: <em><small>Python/PyTorch/TensorFlow/Object-Detection/Classification/OpenCV</small></em>
           company_url: ''
