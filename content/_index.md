@@ -70,8 +70,8 @@ sections:
           company_logo: Qcom
           location: Hsinchu, Taiwan
           date_start: '2024-04-01'
-          date_end: 'present'
-          description: ""
+          date_end: '2024-09-30'
+          description: ''
       items:
         - title: AI Algorithm Engineer Intern, [COMPAL Inc.](https://www.compal.com/)
           company: <em><small>Python/PyTorch/TensorFlow/Object-Detection/Classification/OpenCV</small></em>
