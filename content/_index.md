@@ -70,7 +70,7 @@ sections:
           company_logo: Qcom
           location: Hsinchu, Taiwan
           date_start: '2024-04-01'
-          date_end: 'present'
+          date_end: '2024-09-30'
           description: ''
 
         - title: AI Algorithm Engineer Intern, [COMPAL Inc.](https://www.compal.com/)
