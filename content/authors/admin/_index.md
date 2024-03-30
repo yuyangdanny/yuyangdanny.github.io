@@ -58,7 +58,7 @@ skills:
       - name: C++
         description: ''
         percent: 70
-        icon: cplusplus
+        icon: 
         icon_pack: fab
   - name: Deep Learning Frameworks
     color: '#eeac02'
@@ -67,12 +67,12 @@ skills:
       - name: PyTorch
         description: ''
         percent: 90
-        icon: pytorch
+        icon: 
         icon_pack: fab
       - name: TensorFlow
         description: ''
         percent: 60
-        icon: tensorflow
+        icon: 
         icon_pack: fab
 
 # Social/Academic Networking
