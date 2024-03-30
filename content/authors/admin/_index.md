@@ -48,37 +48,32 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Programming Languages
     items:
       - name: Python
         description: ''
-        percent: 100
+        percent: 90
         icon: python
         icon_pack: fab
       - name: C++
         description: ''
         percent: 70
-        icon: c-plus-plus
+        icon: cplusplus
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-  - name: Hobbies
+  - name: Deep Learning Frameworks
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Dogs
+      - name: PyTorch
         description: ''
-        percent: 100
-        icon: dog
-        icon_pack: fas
-      - name: Photography
+        percent: 90
+        icon: pytorch
+        icon_pack: fab
+      - name: TensorFlow
         description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        percent: 60
+        icon: tensorflow
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
